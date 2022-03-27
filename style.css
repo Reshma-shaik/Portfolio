@@ -1,0 +1,5 @@
+.header-container {
+  background: url("./assets/header-image.jpg");
+  background-size: cover;
+  height: 70vh;
+}
